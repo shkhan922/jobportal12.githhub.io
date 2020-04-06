@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a015e6ff3450e7cad58920f27be327ed",
+    "revision": "af7dbda401ebe2a6239198bedb28af0b",
     "url": "/jobportal12.githhub.io/index.html"
   },
   {
-    "revision": "0773cf744909646bfb57",
-    "url": "/jobportal12.githhub.io/static/css/main.5724b05e.chunk.css"
+    "revision": "301de1c3c19831ea0ee6",
+    "url": "/jobportal12.githhub.io/static/css/main.efcbfdb3.chunk.css"
   },
   {
     "revision": "389d7caa287acb012f79",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jobportal12.githhub.io/static/js/2.83f1c7c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0773cf744909646bfb57",
-    "url": "/jobportal12.githhub.io/static/js/main.b01bb8cc.chunk.js"
+    "revision": "301de1c3c19831ea0ee6",
+    "url": "/jobportal12.githhub.io/static/js/main.902cc275.chunk.js"
   },
   {
     "revision": "7c7e539bf1494f610d7e",

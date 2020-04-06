@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jobportal12.githhub.io/static/css/main.5724b05e.chunk.css",
-    "main.js": "/jobportal12.githhub.io/static/js/main.b01bb8cc.chunk.js",
-    "main.js.map": "/jobportal12.githhub.io/static/js/main.b01bb8cc.chunk.js.map",
+    "main.css": "/jobportal12.githhub.io/static/css/main.efcbfdb3.chunk.css",
+    "main.js": "/jobportal12.githhub.io/static/js/main.902cc275.chunk.js",
+    "main.js.map": "/jobportal12.githhub.io/static/js/main.902cc275.chunk.js.map",
     "runtime-main.js": "/jobportal12.githhub.io/static/js/runtime-main.3afa37de.js",
     "runtime-main.js.map": "/jobportal12.githhub.io/static/js/runtime-main.3afa37de.js.map",
     "static/js/2.83f1c7c6.chunk.js": "/jobportal12.githhub.io/static/js/2.83f1c7c6.chunk.js",
     "static/js/2.83f1c7c6.chunk.js.map": "/jobportal12.githhub.io/static/js/2.83f1c7c6.chunk.js.map",
     "index.html": "/jobportal12.githhub.io/index.html",
-    "precache-manifest.e0d18570ae7959b0f13f21bdcf34a539.js": "/jobportal12.githhub.io/precache-manifest.e0d18570ae7959b0f13f21bdcf34a539.js",
+    "precache-manifest.c66921584b7eaeeec1c9fe10533c7df5.js": "/jobportal12.githhub.io/precache-manifest.c66921584b7eaeeec1c9fe10533c7df5.js",
     "service-worker.js": "/jobportal12.githhub.io/service-worker.js",
-    "static/css/main.5724b05e.chunk.css.map": "/jobportal12.githhub.io/static/css/main.5724b05e.chunk.css.map",
+    "static/css/main.efcbfdb3.chunk.css.map": "/jobportal12.githhub.io/static/css/main.efcbfdb3.chunk.css.map",
     "static/js/2.83f1c7c6.chunk.js.LICENSE.txt": "/jobportal12.githhub.io/static/js/2.83f1c7c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3afa37de.js",
     "static/js/2.83f1c7c6.chunk.js",
-    "static/css/main.5724b05e.chunk.css",
-    "static/js/main.b01bb8cc.chunk.js"
+    "static/css/main.efcbfdb3.chunk.css",
+    "static/js/main.902cc275.chunk.js"
   ]
 }
